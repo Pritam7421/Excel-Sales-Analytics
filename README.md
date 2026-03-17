@@ -143,6 +143,6 @@ Aspiring Data Analyst
 
 LinkedIn: https://www.linkedin.com/in/pritam-dan/
 
-Email: kundusubhayan@gmail.com
+Email: pritamdan616@gmail.com
 
 GitHub: https://github.com/Pritam7421
