@@ -136,9 +136,11 @@ Sales-Financial-Analysis
 ├── reports/
 ├── images/
 └── README.md
+
+
 📬 Contact
 
-Shubhayan Kundu
+Pritam Dan
 Aspiring Data Analyst
 
 LinkedIn: https://www.linkedin.com/in/pritam-dan/
